@@ -22,6 +22,7 @@ It patches game code at runtime to allow intervening in the process of WASAPI de
 
 - [Asus Strix Soar](docs/asus_strix_soar/README.md)
 - Audient iD4
+- [Audient Evo 4](https://github.com/mdias/rs_asio/issues/84)
 - [Behringer MIC2 USB](docs/behringer_mic2usb/README.md), using ASIO4All
 - Behringer U-Phoria UM2 [(see this for more details)](https://github.com/mdias/rs_asio/issues/7)
 - Behringer UMC1820
